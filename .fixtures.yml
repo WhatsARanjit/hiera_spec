@@ -1,0 +1,4 @@
+---
+fixtures:
+  symlinks:
+    hiera_spec: "#{source_dir}"
